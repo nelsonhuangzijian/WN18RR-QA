@@ -7,6 +7,6 @@ If you use this repo, please cite the following paper.
   title={LinE: Logical Query Reasoning over Hierarchical Knowledge},
   author={Huang, Zijian and Chiang, Meng-Fen and Lee, Wang-Chien},
   booktitle={SIGKDD Conference on Knowledge Discovery and Data Mining},
-  year={2022},
+  year={2022}
 }
 ```
